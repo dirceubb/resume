@@ -8,5 +8,9 @@ jobs:
         name: Build
         runs-on: ubuntu-22.04
         steps:
-            - run: pip install mkdocs
-            - run: mkdocs build
+            - name: checkout
+              uses: actions/checkout@v3
+            - name: install mkdocs
+              run: pip install mkdocs
+            - name: build docs
+              run: mkdocs build
