@@ -1,0 +1,4 @@
+site_name: Dirceu Pavon Resume
+docs_dir: resume
+theme: readthedocs
+plugins: []

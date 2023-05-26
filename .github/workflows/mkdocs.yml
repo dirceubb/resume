@@ -1,0 +1,12 @@
+name: Build resume with mkdocs
+run-name: ${{ github.actor }} resume build
+on: 
+    push:
+        branches: [ main ]
+jobs:
+    Build:
+        name: Build
+        runs-on: ubuntu-22.04
+          steps:
+                - run: pip install mkdocs
+                - run: mkdocs build
