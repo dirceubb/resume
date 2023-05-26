@@ -7,6 +7,6 @@ jobs:
     Build:
         name: Build
         runs-on: ubuntu-22.04
-          steps:
-                - run: pip install mkdocs
-                - run: mkdocs build
+        steps:
+            - run: pip install mkdocs
+            - run: mkdocs build
