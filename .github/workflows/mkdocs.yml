@@ -13,4 +13,4 @@ jobs:
             - name: install mkdocs
               run: pip install mkdocs
             - name: build and push resume
-              run: mkdocs gh-deploy
+              run: mkdocs gh-deploy --force
