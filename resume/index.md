@@ -16,7 +16,7 @@ Devops Engineer at Emids Technologies.
 ### Containers
 - Docker, Podman, nerdctl.
 ### Containers Orchestration
-- Kubernetes Clusters (GKE, EKS, Rancher), kubectl, helm, kustomize, Kiali.
+- Kubernetes Clusters (GKE, EKS, Rancher), kubectl, helm, kustomize, istio, kiali.
 ### SCM
 - Github, Gitlab.
 ### Continuous Integration
@@ -39,8 +39,11 @@ Devops Engineer at Emids Technologies.
 - Shell Script, Powershell, Python, T-SQL.
 ### OS
 - Linux (Debian and RedHat family), Windows Server.
+### Databases
+- SQL Server, MySQL, PostgreSQL.
+
 ### On Premise
-- VmWare vSphere, Proxmox VE, Veeam HP Clusters, HP SAN, Routing/Switching, Vlans, Firewalls, VPNs, NAS, Active Directory, SQL Server, Remote Desktop Server.
+- VmWare vSphere, Proxmox VE, Veeam HP Clusters, HP SAN, Routing/Switching, Vlans, Firewalls, VPNs, NAS, Active Directory, Remote Desktop Server.
 ### Agile Frameworks
 - Scrum, SAFe.
 ### Other SaaS products
