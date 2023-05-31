@@ -16,7 +16,7 @@ Devops Engineer at Emids Technologies.
 ### Containers
 - Docker, Podman, nerdctl.
 ### Containers Orchestration
-- Kubernetes Clusters (GKE, EKS, Rancher), kubectl, helm, kustomize, istio, kiali.
+- Kubernetes Clusters (GKE, EKS, Rancher), Kubectl, Helm, Kustomize, Istio.
 ### SCM
 - Github, Gitlab.
 ### Continuous Integration
@@ -26,7 +26,7 @@ Devops Engineer at Emids Technologies.
 - Deploy OCI images to Kubernetes Clusters.
 - Harness CD, ArgoCD, Jenkins.
 ### Observability and monitoring
-- Sumologic, Prometheus.
+- Sumologic, Kiali, Prometheus, Nagios.
 ### Public Cloud
 - AWS (VPC, EC2, S3, EKS) GCP (Cloudbuild, Storage Cloud, GCR, GKE, Memorystore).
 ### IaC/CaC
