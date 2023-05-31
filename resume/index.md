@@ -5,12 +5,17 @@
 [linkedin](https://www.linkedin.com/in/dirceu-pav%C3%B3n-2779aa8a)
 ## <center> Certifications </center>
 GitOps Fundamentals, AWS Practitioner, Cisco Routing/Switching, PowerBI.
-## <center> Last role </center>
-Devops Engineer at Emids Technologies.
-### Responsibilities
-- Support and maintain the digital platform including CICD tools and patterns, repositories, integrations, automations and cloud resources.
-- Support the IaC platform (Terraform pipeline and templates).
-- Support platform and toolset migrations.
+## <center> Latest Professional Experience </center>
+### <center> Current Job - Devops Engineer at [Emids](https://www.linkedin.com/company/emids) (+1 years) </center>
+- Support and maintain the digital platform, including CI/CD tools and
+patterns/pipelines, repositories, integrations, automations and cloud resources
+- Support the IaC platform (Terraform pipeline and modules)
+- Support platform and toolset migrations
+### <center> Former Job - Hybrid IT Manager at [Triple H](https://www.linkedin.com/company/triple-h-produce-usa) (+7 years) </center>
+- Manage on-prem infrastructure and networking resources like server clusters,
+storage, ip communications and SaaS tools
+- Evolved and implemented more disruptive/cloud-native technologies like git, docker,
+jenkins, aws and openstack
 
 ## <center> Skills and toolset </center>
 ### Containers
@@ -41,12 +46,11 @@ Devops Engineer at Emids Technologies.
 - Linux (Debian and RedHat family), Windows Server.
 ### Databases
 - SQL Server, MySQL, PostgreSQL.
-
 ### On Premise
-- VmWare vSphere, Proxmox VE, Veeam HP Clusters, HP SAN, Routing/Switching, Vlans, Firewalls, VPNs, NAS, Active Directory, Remote Desktop Server.
+- VmWare vSphere, Proxmox VE, Veeam HP Clusters, HP SAN, Routing/Switching, Vlans, Firewalls, VPNs, NAS, Active Directory, Remote Desktop Server, Microsoft Licensing. Infrastructure leasing.
 ### Agile Frameworks
 - Scrum, SAFe.
 ### Other SaaS products
 - Salesforce, Microsoft 365/Azure AD.
 ### Other technologies/solutions
-- Avaya UC, Power BI, Data wareHouse and ETL (SSIS).
+- IP PBX (Avaya and Cisco), Business Intelligent (Power BI), Data wareHouse and ETL (SSIS).
