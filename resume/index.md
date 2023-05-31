@@ -20,8 +20,8 @@ Devops Engineer at Emids Technologies.
 ### SCM
 - Github, Gitlab.
 ### Continuous Integration
-- Test, build and publish apps (Java, Nodejs/Angular, Python)
-- CircleCI, Google Cloudbuild, Jenkins, Github Actions.
+- Test, build and publish apps (Java, Nodejs/Angular, Python, Swift)
+- CircleCI, Google Cloudbuild, Jenkins, Github Actions, Fastlane.
 ### Continuous Delivery/GitOps.
 - Deploy OCI images to Kubernetes Clusters.
 - Harness CD, ArgoCD, Jenkins.
