@@ -47,7 +47,7 @@ jenkins, aws and openstack
 ### Databases
 - SQL Server, MySQL, PostgreSQL.
 ### On Premise
-- VmWare vSphere, Proxmox VE, Veeam HP Clusters, HP SAN, Routing/Switching, Vlans, Firewalls, VPNs, NAS, Active Directory, Remote Desktop Server, Microsoft Licensing. Infrastructure leasing.
+- VmWare vSphere, Proxmox VE, Veeam HP Clusters, HP SAN, Routing/Switching, Vlans, Firewalls, VPNs, NAS, Active Directory, Remote Desktop Server, Microsoft Licensing, Infrastructure leasing.
 ### Agile Frameworks
 - Scrum, SAFe.
 ### Other SaaS products
