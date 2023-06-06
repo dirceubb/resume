@@ -23,7 +23,7 @@ jenkins, aws and openstack
 ### Containers Orchestration
 - Kubernetes Clusters (GKE, EKS, Rancher), Kubectl, Helm, Kustomize, Istio.
 ### SCM
-- Github, Gitlab.
+- Git,Github EMU, Gitlab.
 ### Continuous Integration
 - Test, build and publish apps (Java, Nodejs/Angular, Python, Swift)
 - CircleCI, Google Cloudbuild, Jenkins, Github Actions, Fastlane.
