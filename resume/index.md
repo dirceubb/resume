@@ -13,8 +13,7 @@ patterns/pipelines, repositories, integrations, automations and cloud resources
 - Support platform and toolset migrations
 ### <center> Former Job - Hybrid IT Manager at [Triple H](https://www.linkedin.com/company/triple-h-produce-usa) (+7 years) </center>
 - Manage on-prem infrastructure and networking (hypervisors, server clusters, Storage/backups, firewalls)
-- System administrator for various technologies (VM, Web Servers, Databases, Backups)
-storage, ip communications and SaaS tools
+- System administrator for various technologies (VM, Web Servers, Databases, Backups, Active Directory, PBX, email, SaaS tools)
 - Implement disruptive/cloud-native technologies like git, docker,
 jenkins, aws and openstack
 
