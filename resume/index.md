@@ -12,9 +12,10 @@ patterns/pipelines, repositories, integrations, automations and cloud resources
 - Support the IaC platform (Terraform pipeline and modules)
 - Support platform and toolset migrations
 ### <center> Former Job - Hybrid IT Manager at [Triple H](https://www.linkedin.com/company/triple-h-produce-usa) (+7 years) </center>
-- Manage on-prem infrastructure and networking resources like server clusters,
+- Manage on-prem infrastructure and networking (hypervisors, server clusters, Storage/backups, firewalls)
+- System administrator for various technologies (VM, Web Servers, Databases, Backups)
 storage, ip communications and SaaS tools
-- Evolved and implemented more disruptive/cloud-native technologies like git, docker,
+- Implement disruptive/cloud-native technologies like git, docker,
 jenkins, aws and openstack
 
 ## <center> Skills and toolset </center>
@@ -23,7 +24,7 @@ jenkins, aws and openstack
 ### Containers Orchestration
 - Kubernetes Clusters (GKE, EKS, Rancher), Kubectl, Helm, Kustomize, Istio.
 ### SCM
-- Git,Github EMU, Gitlab.
+- Git, Github EMU, Gitlab.
 ### Continuous Integration
 - Test, build and publish apps (Java, Nodejs/Angular, Python, Swift)
 - CircleCI, Google Cloudbuild, Jenkins, Github Actions, Fastlane.
