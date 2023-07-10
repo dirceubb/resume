@@ -17,6 +17,13 @@ patterns/pipelines, repositories, integrations, automations and cloud resources
 - Implement disruptive/cloud-native technologies like git, docker,
 jenkins, aws and openstack
 
+## <center> Some Cool Projects </center>
+- Migrate ~100 development teams from legacy Cloud/CI/CD platform to a more modern toolset
+- Migrate ~35 VM’s (applications and databases) from a datacenter to another
+- Implement ETL pipeline and Data warehouse for data Analysis and BI
+- Implement a CI/CD pipeline with jenkins for on-prem applications
+- Migrate ~200 email accounts from on-premise to SAAS solution
+
 ## <center> Skills and toolset </center>
 ### Containers
 - Docker, Podman, nerdctl.
