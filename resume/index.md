@@ -6,7 +6,7 @@
 ## <center> Certifications </center>
 [Kubernetes (CKAD)](https://www.credly.com/badges/e1269fba-3c0d-432f-9871-be5019470847/public_url), [GitOps Fundamentals](https://drive.google.com/file/d/19-gZ34ZR9-XonpMeCxFci_kgUvfVthME/view?usp=sharing), [AWS Practitioner](https://www.credly.com/badges/8e8d535b-779b-4fa1-be89-21ee64e1fc7d/public_url), [Data Analysis with PowerBI](https://www.credly.com/badges/d23e1911-c28d-45da-a60e-6856fe31024b/public_url), [Cisco Routing/Switching](https://cp.certmetrics.com/cisco/en/public/verify/credential/406084172514COYI).
 ## <center> Latest Professional Experience </center>
-### <center> Current Job - Devops Engineer at [Emids](https://www.linkedin.com/company/emids) (+1 years) </center>
+### <center> Current Job - Devops Engineer at [Emids](https://www.linkedin.com/company/emids) (2 years) </center>
 - Support and maintain the digital platform, including CI/CD tools and
 patterns/pipelines, repositories, integrations, automations and cloud resources
 - Support the IaC platform (Terraform pipeline and modules)
