@@ -1,7 +1,8 @@
 # <center> Dirceu Pavon </center>
 ## <center> Devops Engineer </center>
 ## <center> Master’s in software engineering management </center>
-## <center> +12 years of IT experience </center>
+## <center> +14 years of IT experience </center>
+## <center> 5 years of DevOps experience </center>
 [linkedin](https://www.linkedin.com/in/dirceu-pav%C3%B3n-2779aa8a)
 ## <center> Certifications </center>
 [Kubernetes (CKAD)](https://www.credly.com/badges/e1269fba-3c0d-432f-9871-be5019470847/public_url), [GitOps Fundamentals](https://drive.google.com/file/d/19-gZ34ZR9-XonpMeCxFci_kgUvfVthME/view?usp=sharing), [AWS Practitioner](https://www.credly.com/badges/8e8d535b-779b-4fa1-be89-21ee64e1fc7d/public_url), [Data Analysis with PowerBI](https://www.credly.com/badges/d23e1911-c28d-45da-a60e-6856fe31024b/public_url), [Cisco Routing/Switching](https://cp.certmetrics.com/cisco/en/public/verify/credential/406084172514COYI).
